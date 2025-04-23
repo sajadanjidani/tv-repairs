@@ -11,7 +11,7 @@ const About = () => {
                     <span className="py-5 px-10 text-white text-xl bg-Bg1 border-4 border-Brand1 rounded-tl-[40px] rounded-br-[40px]">درباره من</span>
                     <div className="bg-Bg1 rounded-[40px] p-12">
                         <h1 className="text-Brand2">سلام !</h1>
-                        <p className="text-white leading-10">من <span className="text-Brand2">مازیار رحمانی</span> بیش از 2 سال و 3 ماه است که در حوضه تعمیرات تلویزیون فعالیت دارم . خدمات بنده در محل فقط در تهران است و با ضمانت قطعات , قطعات اورجینال با گارانتی 3 تا 6 ماه کار خود را تضمین میکنم .</p>
+                        <p className="text-white leading-10">من <span className="text-Brand2">مازیار رحمانی</span> بیش از 10 سال است که در حوضه تعمیرات تلویزیون فعالیت دارم . خدمات بنده در محل فقط در تهران و کرج است و با ضمانت قطعات , قطعات اورجینال با گارانتی 3 تا 6 ماه کار خود را تضمین میکنم .</p>
                     </div>
                 </div>
             </div>

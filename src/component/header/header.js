@@ -4,15 +4,15 @@ const Header = () => {
             <div className="container flex mt-16 w-10/12 max-h-[500px]">
                 {/* امار و ارقام */}
                 <div className="relative w-3/12 h-full">
-                    <ul className="absolute bottom-0 grid text-white w-9/12 gap-10 py-14 px-12 bg-Bg2 rounded-[80px]">
+                    <ul className="absolute bottom-0 grid text-white w-9/12 gap-10 py-14 px-10 bg-Bg2 rounded-[80px]">
                         <li>
-                            <span> 8 سال تجربه </span>
+                            <span><span className="text-Brand1">10</span> سال تجربه </span>
                         </li>
                         <li>
-                            <span> 8 مشتری </span>
+                            <span><span className="text-Brand1">10</span> مشتری </span>
                         </li>
                         <li>
-                            <span>8 مشتری راضی</span>
+                            <span><span className="text-Brand1">10</span> مشتری راضی</span>
                         </li>
                     </ul>
                 </div>

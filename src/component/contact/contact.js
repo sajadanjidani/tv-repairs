@@ -6,17 +6,15 @@ const Contact = () => {
             </div>
             <div className="flex justify-evenly w-full h-4/6 py-10 text-white">
                 {/* telegram */}
-                <span>تلگرام : <span className="text-Brand1">09059059595</span></span>
-                {/* instagram */}
-                <span>اینستاگرام : <span className="text-Brand1">mazyarRahmati</span></span>
+                <span>تلگرام : <span className="text-Brand1">09381001220</span></span>
                 {/* whatsapp */}
-                <span>واتساپ : <span className="text-Brand1">09059059595</span></span>
+                <span>واتساپ : <span className="text-Brand1">09381001220</span></span>
                 {/* eita */}
-                <span>ایتا : <span className="text-Brand1">09059059595</span></span>
+                <span>ایتا : <span className="text-Brand1">09381001220</span></span>
                 {/* number */}
-                <span>شماره همراه : <span className="text-Brand1">09059059595</span></span>
+                <span>شماره همراه : <span className="text-Brand1">09381001220</span></span>
                 {/* phone */}
-                <span>شماره تلفن : <span className="text-Brand1">0219059595</span></span>
+                <span>شماره تلفن : <span className="text-Brand1">02166459713</span></span>
             </div>
         </div>
     )
