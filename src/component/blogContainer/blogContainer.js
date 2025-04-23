@@ -1,3 +1,5 @@
+import BlogItem from "../blogItem/blogItem"
+
 const BlogContainer = () => {
     return(
         <div className="w-full h-screen bg-Bg1">
@@ -7,7 +9,7 @@ const BlogContainer = () => {
             </div>
             <div className="h-3/6">
                 <div className="w-2/3 h-full border-t border-b mx-auto">
-                    
+                    <BlogItem></BlogItem>
                 </div>
             </div>
             <div className="h-1/6 py-5">
