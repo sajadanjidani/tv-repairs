@@ -1,8 +1,8 @@
 const Navbar = () => {
     return(
-        <div className="flex justify-between w-full h-28 bg-Bg1">
+        <div className="flex justify-between w-full h-28 bg-Bg1 border border-Gray">
             <div className="grid justify-center content-center w-1/3 h-full">
-                <h1 className="text-white">WEBSITE NAME</h1>
+                <h1 className="text-white">مازیار رحمانی</h1>
             </div>
             <div className="grid content-center w-1/2 h-full">
                 <ul className="flex justify-evenly text-white child-hover:text-Brand1 child-hover:cursor-pointer">
