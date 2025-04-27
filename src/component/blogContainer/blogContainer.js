@@ -16,7 +16,7 @@ const BlogContainer = () => {
                 <h1 className="inline-block pb-5 text-Brand1 text-center text-3xl border-b border-Brand1">سوالات متداول</h1>
             </div>
             <div className="h-auto mt-5">
-                <div className="grid gap-5 w-2/3 h-auto mx-auto">
+                <div className="grid gap-5 w-10/12 lg:w-2/3 h-auto mx-auto">
                     <BlogItem {...blogInfo[0]}></BlogItem>
                     <BlogItem {...blogInfo[1]}></BlogItem>
                     <BlogItem {...blogInfo[4]}></BlogItem>
