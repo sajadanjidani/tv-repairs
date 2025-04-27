@@ -19,7 +19,7 @@ const Header = () => {
                 {/* معرفی */}
                 <div className="grid w-5/12 h-full pt-20 px-14">
                     <h1 className="text-5xl text-Brand2">تعمیرکار تلوزیون</h1>
-                    <p className="text-xl leading-10 text-white">سلام <br/> من <span className="text-Brand2"> مازیار رحمانی </span> هستم <br/> تعمیرکار تلوزیون</p>
+                    <p className="text-lg leading-10 text-white">سلام <br/> من <span className="text-Brand2"> مازیار رحمانی </span> هستم <br/> تعمیرکار تلوزیونهای سونی , سامسونگ , ال جی و انواع برند های ایرانی و خارجی در سریع ترین زمان </p>
                 </div>
                 {/* عکس */}
                 <div className="flex item-center w-4/12 h-full">
