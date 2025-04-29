@@ -1,9 +1,6 @@
 const Contact = () => {
     return(
         <div className="w-full h-auto bg-Bg2">
-            <div className="flex items-center justify-center w-full h-2/6">
-                <h1 className="inline-block py-5 text-2xl text-Brand1 border-b border-Brand1">راه های ارتباطی</h1>
-            </div>
             <div className="flex justify-evenly w-full h-4/6 py-10 text-white">
                 {/* number */}
                 <span>
